@@ -1,7 +1,6 @@
 """
 Constants used by our Catamount Processor Unit.
 
-CS 2210 Computer Organization
 Clayton Cafiero <cbcafier@uvm.edu>
 """
 
