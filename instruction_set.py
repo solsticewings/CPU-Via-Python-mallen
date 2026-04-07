@@ -6,7 +6,6 @@ This ISA commits the Catamount PU to a 16-bit address space, word-aligned
 accesses, signed-offset addressing, and a linear memory model where all
 effective-address computations happen in 16-bit two's-complement arithmetic.
 
-CS 2210 Computer Organization
 Clayton Cafiero <cbcafier@uvm.edu>
 
 v. 1.0.0 2025-10-29
