@@ -1,0 +1,7 @@
+CALL F
+HALT
+F:
+CALL G
+RET
+G:
+RET

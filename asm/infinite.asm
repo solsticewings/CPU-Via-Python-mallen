@@ -1,0 +1,3 @@
+FOO:
+    CALL FOO
+    HALT

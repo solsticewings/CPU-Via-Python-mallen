@@ -1,0 +1,5 @@
+START:
+    CALL FOO
+    HALT
+FOO:
+    RET

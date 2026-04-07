@@ -1,0 +1,10 @@
+START:
+    BEQ TARGET
+    HALT
+TARGET:
+    LOADI R1, #0x01
+    LOADI R2, #0x02
+    ADD R3, R1, R2
+    ADD R4, R3, R1
+    ADDI R5, R4 #0x0A
+    HALT
