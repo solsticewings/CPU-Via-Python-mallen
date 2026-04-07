@@ -2,10 +2,7 @@
 Catamount Processing Unit
 A toy 16-bit Harvard architecture CPU.
 
-CS 2210 Computer Organization
 Clayton Cafiero <cbcafier@uvm.edu>
-
-STARTER CODE
 """
 
 from alu import Alu
