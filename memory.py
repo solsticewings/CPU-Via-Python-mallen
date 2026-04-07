@@ -3,12 +3,7 @@ We're going with Harvard architecture here. So we'll have two separate
 address spaces, one for data and one for instructions. A portion of data
 memory is reserved for the stack (addresses from 0xFF00).
 
-CS 2210 Computer Organization
 Clayton Cafiero <cbcafier@uvm.edu>
-
-By Micah Allen, Sam Schlitz, and Westley Blakeslee
-
-(Revisions added)
 """
 
 from constants import STACK_BASE, WORD_SIZE
