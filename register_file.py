@@ -1,14 +1,10 @@
 """
-Starter code for our Register File
-By Micah Allen, Sam Schlitz, and Westley Blakeslee
-
 In our Catamount Processing Unit we have eight general purpose registers.
 These do not include special-purpose registers elsewhere in the CPU:
   - instruction register,
   - program counter,
   - etc.
 
-CS 2210 Computer Organization
 Clayton Cafiero <cbcafier@uvm.edu>
 
 """
