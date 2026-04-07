@@ -6,7 +6,6 @@ These do not include special-purpose registers elsewhere in the CPU:
   - etc.
 
 Clayton Cafiero <cbcafier@uvm.edu>
-
 """
 
 
