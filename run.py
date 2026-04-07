@@ -1,7 +1,6 @@
 """
 Driver code for running assembly code and inspecting registers and memory.
 
-CS 2210 Computer Organization
 Clayton Cafiero <cbcafier@uvm.edu>
 """
 
