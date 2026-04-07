@@ -11,7 +11,6 @@ Two-pass assembler:
 
 Supports the ISA defined in instruction_set.py.
 
-CS 2210 Computer Organization
 Clayton Cafiero <cbcafier@uvm.edu>
 """
 
