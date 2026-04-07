@@ -1,6 +1,5 @@
 """
 Starter code for Catamount Processor Unit ALU
-By Micah Allen, Sam Schlitz, and Westley Blakeslee
 
 We are limited to 16 bits, and five operations: ADD, SUB, AND, OR, and SHFT.
 
